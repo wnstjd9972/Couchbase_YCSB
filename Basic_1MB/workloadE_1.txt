@@ -1,0 +1,23 @@
+
+C:\ycsb-0.12.0>"C:\Program Files\Java\jdk1.8.0_151\bin\java.exe"  -Dcom.couchbase.connectTimeout=5000000 -Dcom.couchbase.kvTimeout=5000000 -classpath "C:\ycsb-0.12.0\conf;C:\ycsb-0.12.0\lib\core-0.12.0.jar;C:\ycsb-0.12.0\lib\HdrHistogram-2.1.4.jar;C:\ycsb-0.12.0\lib\htrace-core4-4.1.0-incubating.jar;C:\ycsb-0.12.0\lib\jackson-core-asl-1.9.4.jar;C:\ycsb-0.12.0\lib\jackson-mapper-asl-1.9.4.jar;C:\ycsb-0.12.0\couchbase2-binding\lib\core-io-1.3.1.jar;C:\ycsb-0.12.0\couchbase2-binding\lib\couchbase2-binding-0.12.0.jar;C:\ycsb-0.12.0\couchbase2-binding\lib\java-client-2.3.1.jar;C:\ycsb-0.12.0\couchbase2-binding\lib\rxjava-1.1.5.jar" com.yahoo.ycsb.Client -t -db com.yahoo.ycsb.db.couchbase2.Couchbase2Client -P .\workloads\workloade -P .\test.prop -s 
+2018-04-05 22:38:32:751 0 sec: 0 operations; est completion in 0 seconds 
+2018-04-05 22:38:42:716 10 sec: 0 operations; est completion in 106751991167300 days 15 hours 
+2018-04-05 22:38:52:717 20 sec: 0 operations; est completion in 106751991167300 days 15 hours 
+2018-04-05 22:38:58:855 26 sec: 1 operations; 0.17 current ops/sec; est completion in 301 days 5 hours [SCAN AverageLatency(us)=748915] 
+[OVERALL], RunTime(ms), 26029.0
+[OVERALL], Throughput(ops/sec), 0.03841868684928349
+[TOTAL_GCS_PS_Scavenge], Count, 20.0
+[TOTAL_GC_TIME_PS_Scavenge], Time(ms), 407.0
+[TOTAL_GC_TIME_%_PS_Scavenge], Time(%), 1.5636405547658379
+[TOTAL_GCS_PS_MarkSweep], Count, 29.0
+[TOTAL_GC_TIME_PS_MarkSweep], Time(ms), 1957.0
+[TOTAL_GC_TIME_%_PS_MarkSweep], Time(%), 7.518537016404779
+[TOTAL_GCs], Count, 49.0
+[TOTAL_GC_TIME], Time(ms), 2364.0
+[TOTAL_GC_TIME_%], Time(%), 9.082177571170618
+[SCAN], Operations, 1
+[SCAN], AverageLatency(us), 748915.0
+[SCAN], MinLatency(us), 748915
+[SCAN], MaxLatency(us), 748915
+[SCAN], Return=OK, 1
+[SCAN], 0, 748915.0

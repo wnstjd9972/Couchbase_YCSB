@@ -1,0 +1,117 @@
+
+C:\ycsb-0.12.0>"C:\Program Files\Java\jdk1.8.0_151\bin\java.exe"  -Dcom.couchbase.connectTimeout=5000000 -Dcom.couchbase.kvTimeout=5000000 -classpath "C:\ycsb-0.12.0\conf;C:\ycsb-0.12.0\lib\core-0.12.0.jar;C:\ycsb-0.12.0\lib\HdrHistogram-2.1.4.jar;C:\ycsb-0.12.0\lib\htrace-core4-4.1.0-incubating.jar;C:\ycsb-0.12.0\lib\jackson-core-asl-1.9.4.jar;C:\ycsb-0.12.0\lib\jackson-mapper-asl-1.9.4.jar;C:\ycsb-0.12.0\couchbase2-binding\lib\core-io-1.3.1.jar;C:\ycsb-0.12.0\couchbase2-binding\lib\couchbase2-binding-0.12.0.jar;C:\ycsb-0.12.0\couchbase2-binding\lib\java-client-2.3.1.jar;C:\ycsb-0.12.0\couchbase2-binding\lib\rxjava-1.1.5.jar" com.yahoo.ycsb.Client -t -db com.yahoo.ycsb.db.couchbase2.Couchbase2Client -P .\workloads\workloade -P .\test2.prop -s 
+2018-04-09 23:51:15:071 0 sec: 0 operations; est completion in 0 seconds 
+2018-04-09 23:51:25:047 10 sec: 0 operations; est completion in 106751991167300 days 15 hours 
+2018-04-09 23:51:35:057 20 sec: 21 operations; 2.1 current ops/sec; est completion in 110 days 6 hours [INSERT AverageLatency(us)=2207] [SCAN AverageLatency(us)=25076.95] 
+2018-04-09 23:51:45:047 30 sec: 790 operations; 76.98 current ops/sec; est completion in 4 days 9 hours [INSERT AverageLatency(us)=232.22] [SCAN AverageLatency(us)=13134.45] 
+2018-04-09 23:51:55:047 40 sec: 1609 operations; 81.9 current ops/sec; est completion in 2 days 21 hours [INSERT AverageLatency(us)=156.57] [SCAN AverageLatency(us)=12375.93] 
+2018-04-09 23:52:05:048 50 sec: 2428 operations; 81.89 current ops/sec; est completion in 2 days 9 hours [INSERT AverageLatency(us)=114.26] [SCAN AverageLatency(us)=12401.31] 
+2018-04-09 23:52:15:047 60 sec: 3251 operations; 82.31 current ops/sec; est completion in 2 days 3 hours [INSERT AverageLatency(us)=104.69] [SCAN AverageLatency(us)=12600.15] 
+2018-04-09 23:52:25:047 70 sec: 4052 operations; 80.1 current ops/sec; est completion in 1 days 23 hours [INSERT AverageLatency(us)=95.73] [SCAN AverageLatency(us)=12701.97] 
+2018-04-09 23:52:35:048 80 sec: 4866 operations; 81.39 current ops/sec; est completion in 1 days 21 hours [INSERT AverageLatency(us)=98.05] [SCAN AverageLatency(us)=12625.56] 
+2018-04-09 23:52:45:047 90 sec: 5664 operations; 79.81 current ops/sec; est completion in 1 days 20 hours [INSERT AverageLatency(us)=115.37] [SCAN AverageLatency(us)=12671.94] 
+2018-04-09 23:52:55:047 100 sec: 6494 operations; 83 current ops/sec; est completion in 1 days 18 hours [INSERT AverageLatency(us)=93.57] [SCAN AverageLatency(us)=12486.17] 
+2018-04-09 23:53:05:047 110 sec: 7323 operations; 82.9 current ops/sec; est completion in 1 days 17 hours [INSERT AverageLatency(us)=85.45] [SCAN AverageLatency(us)=12670.65] 
+2018-04-09 23:53:15:047 120 sec: 8140 operations; 81.7 current ops/sec; est completion in 1 days 16 hours [INSERT AverageLatency(us)=81.65] [SCAN AverageLatency(us)=12666.51] 
+2018-04-09 23:53:25:047 130 sec: 8962 operations; 82.2 current ops/sec; est completion in 1 days 16 hours [INSERT AverageLatency(us)=75.28] [SCAN AverageLatency(us)=12533.12] 
+2018-04-09 23:53:35:047 140 sec: 9793 operations; 83.1 current ops/sec; est completion in 1 days 15 hours [INSERT AverageLatency(us)=62.38] [SCAN AverageLatency(us)=12454.1] 
+2018-04-09 23:53:45:047 150 sec: 10635 operations; 84.2 current ops/sec; est completion in 1 days 15 hours [INSERT AverageLatency(us)=147.1] [SCAN AverageLatency(us)=12202.39] 
+2018-04-09 23:53:55:048 160 sec: 11470 operations; 83.49 current ops/sec; est completion in 1 days 14 hours [INSERT AverageLatency(us)=59.95] [SCAN AverageLatency(us)=12428.14] 
+2018-04-09 23:54:05:047 170 sec: 12334 operations; 86.41 current ops/sec; est completion in 1 days 14 hours [INSERT AverageLatency(us)=96.59] [SCAN AverageLatency(us)=11962.91] 
+2018-04-09 23:54:15:047 180 sec: 13166 operations; 83.2 current ops/sec; est completion in 1 days 13 hours [INSERT AverageLatency(us)=52.98] [SCAN AverageLatency(us)=12409.08] 
+2018-04-09 23:54:25:047 190 sec: 14004 operations; 83.8 current ops/sec; est completion in 1 days 13 hours [INSERT AverageLatency(us)=44.58] [SCAN AverageLatency(us)=12457.28] 
+2018-04-09 23:54:35:048 200 sec: 14834 operations; 82.99 current ops/sec; est completion in 1 days 13 hours [INSERT AverageLatency(us)=47.44] [SCAN AverageLatency(us)=12537.45] 
+2018-04-09 23:54:45:047 210 sec: 15643 operations; 80.91 current ops/sec; est completion in 1 days 13 hours [INSERT AverageLatency(us)=44.06] [SCAN AverageLatency(us)=12746.06] 
+2018-04-09 23:54:55:047 220 sec: 16457 operations; 81.4 current ops/sec; est completion in 1 days 13 hours [INSERT AverageLatency(us)=42.67] [SCAN AverageLatency(us)=12539.25] 
+2018-04-09 23:55:05:047 230 sec: 17296 operations; 83.9 current ops/sec; est completion in 1 days 12 hours [INSERT AverageLatency(us)=46.62] [SCAN AverageLatency(us)=12409.92] 
+2018-04-09 23:55:15:048 240 sec: 18107 operations; 81.09 current ops/sec; est completion in 1 days 12 hours [INSERT AverageLatency(us)=84.75] [SCAN AverageLatency(us)=12786.47] 
+2018-04-09 23:55:25:048 250 sec: 18951 operations; 84.4 current ops/sec; est completion in 1 days 12 hours [INSERT AverageLatency(us)=75] [SCAN AverageLatency(us)=12469.81] 
+2018-04-09 23:55:35:047 260 sec: 19778 operations; 82.71 current ops/sec; est completion in 1 days 12 hours [INSERT AverageLatency(us)=81.88] [SCAN AverageLatency(us)=12573.3] 
+2018-04-09 23:55:45:048 270 sec: 20605 operations; 82.69 current ops/sec; est completion in 1 days 12 hours [INSERT AverageLatency(us)=48.46] [SCAN AverageLatency(us)=12616.56] 
+2018-04-09 23:55:55:047 280 sec: 21453 operations; 84.81 current ops/sec; est completion in 1 days 12 hours [INSERT AverageLatency(us)=83.37] [SCAN AverageLatency(us)=12363.36] 
+2018-04-09 23:56:05:047 290 sec: 22306 operations; 85.3 current ops/sec; est completion in 1 days 12 hours [INSERT AverageLatency(us)=46.66] [SCAN AverageLatency(us)=12255.87] 
+2018-04-09 23:56:15:047 300 sec: 23146 operations; 84 current ops/sec; est completion in 1 days 11 hours [INSERT AverageLatency(us)=73.96] [SCAN AverageLatency(us)=12553.73] 
+2018-04-09 23:56:15:058 300 sec: 23147 operations; 100 current ops/sec; est completion in 1 days 11 hours [CLEANUP AverageLatency(us)=3]  [SCAN AverageLatency(us)=19512] 
+[OVERALL], RunTime(ms), 300012.0
+[OVERALL], Throughput(ops/sec), 77.15358052344573
+[TOTAL_GCS_PS_Scavenge], Count, 562.0
+[TOTAL_GC_TIME_PS_Scavenge], Time(ms), 822.0
+[TOTAL_GC_TIME_%_PS_Scavenge], Time(%), 0.27398904043838246
+[TOTAL_GCS_PS_MarkSweep], Count, 1.0
+[TOTAL_GC_TIME_PS_MarkSweep], Time(ms), 48.0
+[TOTAL_GC_TIME_%_PS_MarkSweep], Time(%), 0.015999360025598975
+[TOTAL_GCs], Count, 563.0
+[TOTAL_GC_TIME], Time(ms), 870.0
+[TOTAL_GC_TIME_%], Time(%), 0.28998840046398144
+[CLEANUP], Operations, 1
+[CLEANUP], AverageLatency(us), 3.0
+[CLEANUP], MinLatency(us), 3
+[CLEANUP], MaxLatency(us), 3
+[CLEANUP], 0, 3.0
+[INSERT], Operations, 1145
+[INSERT], AverageLatency(us), 85.59563318777293
+[INSERT], MinLatency(us), 14
+[INSERT], MaxLatency(us), 2207
+[INSERT], Return=OK, 1145
+[INSERT], 0, 292.06060606060606
+[INSERT], 10000, 156.57142857142858
+[INSERT], 20000, 113.91176470588235
+[INSERT], 30000, 105.09615384615384
+[INSERT], 40000, 95.72727272727273
+[INSERT], 50000, 98.04761904761905
+[INSERT], 60000, 115.37037037037037
+[INSERT], 70000, 93.57446808510639
+[INSERT], 80000, 85.44642857142857
+[INSERT], 90000, 81.65116279069767
+[INSERT], 100000, 75.275
+[INSERT], 110000, 62.37777777777778
+[INSERT], 120000, 147.10256410256412
+[INSERT], 130000, 59.95454545454545
+[INSERT], 140000, 97.3953488372093
+[INSERT], 150000, 52.68292682926829
+[INSERT], 160000, 45.183673469387756
+[INSERT], 170000, 47.4390243902439
+[INSERT], 180000, 44.06060606060606
+[INSERT], 190000, 42.666666666666664
+[INSERT], 200000, 46.61904761904762
+[INSERT], 210000, 84.75
+[INSERT], 220000, 75.0
+[INSERT], 230000, 81.875
+[INSERT], 240000, 47.89473684210526
+[INSERT], 250000, 83.08510638297872
+[INSERT], 260000, 46.65909090909091
+[INSERT], 270000, 73.95833333333333
+[SCAN], Operations, 22002
+[SCAN], AverageLatency(us), 12530.617625670393
+[SCAN], MinLatency(us), 2474
+[SCAN], MaxLatency(us), 217193
+[SCAN], Return=OK, 22002
+[SCAN], 0, 13480.75205479452
+[SCAN], 10000, 12369.966878980891
+[SCAN], 20000, 12397.353316326531
+[SCAN], 30000, 12636.172727272728
+[SCAN], 40000, 12653.732467532467
+[SCAN], 50000, 12673.957142857143
+[SCAN], 60000, 12610.649870801033
+[SCAN], 70000, 12479.927295918367
+[SCAN], 80000, 12702.74025974026
+[SCAN], 90000, 12693.96765847348
+[SCAN], 100000, 12516.592592592593
+[SCAN], 110000, 12422.252538071067
+[SCAN], 120000, 12238.543071161048
+[SCAN], 130000, 12474.502538071067
+[SCAN], 140000, 11942.929354445798
+[SCAN], 150000, 12356.438287153653
+[SCAN], 160000, 12502.026649746193
+[SCAN], 170000, 12505.217446270544
+[SCAN], 180000, 12699.195372750642
+[SCAN], 190000, 12615.430573248408
+[SCAN], 200000, 12432.713927227102
+[SCAN], 210000, 12741.932989690722
+[SCAN], 220000, 12484.515113350126
+[SCAN], 230000, 12581.459390862945
+[SCAN], 240000, 12592.587563451776
+[SCAN], 250000, 12333.50248756219
+[SCAN], 260000, 12276.800742574258
+[SCAN], 270000, 12582.800252844501
+[SCAN], 280000, 12317.068965517241
