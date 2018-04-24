@@ -1,2 +1,2 @@
 # Couchbase_YCSB
-Please refer to newest folder
+Please refer to newest_result folder
