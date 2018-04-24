@@ -1,0 +1,152 @@
+2018-04-20 16:21:20:306 0 sec: 0 operations; est completion in 0 seconds 
+2018-04-20 16:21:30:287 10 sec: 83818 operations; 8381.8 current ops/sec; est completion in 3 hours 18 minutes [READ AverageLatency(us)=5435.4] [READ-MODIFY-WRITE AverageLatency(us)=10471.23] [UPDATE AverageLatency(us)=5005.17] 
+2018-04-20 16:21:40:287 20 sec: 176167 operations; 9234.9 current ops/sec; est completion in 3 hours 8 minutes [READ AverageLatency(us)=5333.27] [READ-MODIFY-WRITE AverageLatency(us)=10302.53] [UPDATE AverageLatency(us)=4950.22] 
+2018-04-20 16:21:50:287 30 sec: 271370 operations; 9520.3 current ops/sec; est completion in 3 hours 3 minutes [READ AverageLatency(us)=5136.73] [READ-MODIFY-WRITE AverageLatency(us)=9988.33] [UPDATE AverageLatency(us)=4861.5] 
+2018-04-20 16:22:00:287 40 sec: 368202 operations; 9683.2 current ops/sec; est completion in 3 hours [READ AverageLatency(us)=5074.86] [READ-MODIFY-WRITE AverageLatency(us)=9804.1] [UPDATE AverageLatency(us)=4734.28] 
+2018-04-20 16:22:10:287 50 sec: 460252 operations; 9205 current ops/sec; est completion in 3 hours [READ AverageLatency(us)=5331.7] [READ-MODIFY-WRITE AverageLatency(us)=10302.44] [UPDATE AverageLatency(us)=4975.13] 
+2018-04-20 16:22:20:287 60 sec: 554829 operations; 9457.7 current ops/sec; est completion in 2 hours 59 minutes [READ AverageLatency(us)=5182.72] [READ-MODIFY-WRITE AverageLatency(us)=10029.4] [UPDATE AverageLatency(us)=4838.71] 
+2018-04-20 16:22:30:287 70 sec: 649137 operations; 9430.8 current ops/sec; est completion in 2 hours 58 minutes [READ AverageLatency(us)=5201.2] [READ-MODIFY-WRITE AverageLatency(us)=10050.3] [UPDATE AverageLatency(us)=4858.89] 
+2018-04-20 16:22:40:287 80 sec: 740338 operations; 9120.1 current ops/sec; est completion in 2 hours 58 minutes [READ AverageLatency(us)=5374.75] [READ-MODIFY-WRITE AverageLatency(us)=10410.48] [UPDATE AverageLatency(us)=5032.91] 
+2018-04-20 16:22:50:287 90 sec: 834309 operations; 9397.1 current ops/sec; est completion in 2 hours 58 minutes [READ AverageLatency(us)=5172.44] [READ-MODIFY-WRITE AverageLatency(us)=10064.81] [UPDATE AverageLatency(us)=4884.4] 
+2018-04-20 16:23:00:287 100 sec: 930907 operations; 9659.8 current ops/sec; est completion in 2 hours 57 minutes [READ AverageLatency(us)=5097.38] [READ-MODIFY-WRITE AverageLatency(us)=9893.19] [UPDATE AverageLatency(us)=4781.79] 
+2018-04-20 16:23:10:287 110 sec: 1022854 operations; 9194.7 current ops/sec; est completion in 2 hours 57 minutes [READ AverageLatency(us)=5312] [READ-MODIFY-WRITE AverageLatency(us)=10333.99] [UPDATE AverageLatency(us)=5020.66] 
+2018-04-20 16:23:20:287 120 sec: 1117048 operations; 9419.4 current ops/sec; est completion in 2 hours 57 minutes [READ AverageLatency(us)=5193.28] [READ-MODIFY-WRITE AverageLatency(us)=10112.37] [UPDATE AverageLatency(us)=4913.8] 
+2018-04-20 16:23:30:288 130 sec: 1212079 operations; 9502.15 current ops/sec; est completion in 2 hours 56 minutes [READ AverageLatency(us)=5148.12] [READ-MODIFY-WRITE AverageLatency(us)=10014.29] [UPDATE AverageLatency(us)=4869.22] 
+2018-04-20 16:23:40:287 140 sec: 1302568 operations; 9049.8 current ops/sec; est completion in 2 hours 56 minutes [READ AverageLatency(us)=5415.87] [READ-MODIFY-WRITE AverageLatency(us)=10534.54] [UPDATE AverageLatency(us)=5063.84] 
+2018-04-20 16:23:50:287 150 sec: 1398178 operations; 9561 current ops/sec; est completion in 2 hours 56 minutes [READ AverageLatency(us)=5121.19] [READ-MODIFY-WRITE AverageLatency(us)=9936.25] [UPDATE AverageLatency(us)=4824.21] 
+2018-04-20 16:24:00:287 160 sec: 1494932 operations; 9675.4 current ops/sec; est completion in 2 hours 55 minutes [READ AverageLatency(us)=5054.74] [READ-MODIFY-WRITE AverageLatency(us)=9815.08] [UPDATE AverageLatency(us)=4760.39] 
+2018-04-20 16:24:10:287 170 sec: 1584831 operations; 8989.9 current ops/sec; est completion in 2 hours 55 minutes [READ AverageLatency(us)=5450.83] [READ-MODIFY-WRITE AverageLatency(us)=10543.94] [UPDATE AverageLatency(us)=5115.86] 
+2018-04-20 16:24:20:287 180 sec: 1678476 operations; 9364.5 current ops/sec; est completion in 2 hours 55 minutes [READ AverageLatency(us)=5214.87] [READ-MODIFY-WRITE AverageLatency(us)=10131.28] [UPDATE AverageLatency(us)=4910.56] 
+2018-04-20 16:24:30:287 190 sec: 1773216 operations; 9474 current ops/sec; est completion in 2 hours 55 minutes [READ AverageLatency(us)=5170.14] [READ-MODIFY-WRITE AverageLatency(us)=10042.52] [UPDATE AverageLatency(us)=4866.7] 
+2018-04-20 16:24:40:287 200 sec: 1864272 operations; 9105.6 current ops/sec; est completion in 2 hours 55 minutes [READ AverageLatency(us)=5390.22] [READ-MODIFY-WRITE AverageLatency(us)=10428.47] [UPDATE AverageLatency(us)=5047.48] 
+2018-04-20 16:24:50:287 210 sec: 1957277 operations; 9300.5 current ops/sec; est completion in 2 hours 55 minutes [READ AverageLatency(us)=5254.44] [READ-MODIFY-WRITE AverageLatency(us)=10210.57] [UPDATE AverageLatency(us)=4932.61] 
+2018-04-20 16:25:00:287 220 sec: 2050518 operations; 9324.1 current ops/sec; est completion in 2 hours 55 minutes [READ AverageLatency(us)=5211.81] [READ-MODIFY-WRITE AverageLatency(us)=10230.31] [UPDATE AverageLatency(us)=4991.63] 
+2018-04-20 16:25:10:287 230 sec: 2140973 operations; 9045.5 current ops/sec; est completion in 2 hours 55 minutes [READ AverageLatency(us)=5387.13] [READ-MODIFY-WRITE AverageLatency(us)=10498.77] [UPDATE AverageLatency(us)=5108.65] 
+2018-04-20 16:25:20:287 240 sec: 2236654 operations; 9568.1 current ops/sec; est completion in 2 hours 54 minutes [READ AverageLatency(us)=5071.45] [READ-MODIFY-WRITE AverageLatency(us)=9887.34] [UPDATE AverageLatency(us)=4824.33] 
+2018-04-20 16:25:30:287 250 sec: 2332007 operations; 9535.3 current ops/sec; est completion in 2 hours 54 minutes [READ AverageLatency(us)=5147.3] [READ-MODIFY-WRITE AverageLatency(us)=10088.23] [UPDATE AverageLatency(us)=4891.93] 
+2018-04-20 16:25:40:287 260 sec: 2425154 operations; 9314.7 current ops/sec; est completion in 2 hours 54 minutes [READ AverageLatency(us)=5251.61] [READ-MODIFY-WRITE AverageLatency(us)=10194.48] [UPDATE AverageLatency(us)=4948.12] 
+2018-04-20 16:25:50:287 270 sec: 2518716 operations; 9356.2 current ops/sec; est completion in 2 hours 54 minutes [READ AverageLatency(us)=5234.56] [READ-MODIFY-WRITE AverageLatency(us)=10146.78] [UPDATE AverageLatency(us)=4897.35] 
+2018-04-20 16:26:00:287 280 sec: 2613706 operations; 9499 current ops/sec; est completion in 2 hours 53 minutes [READ AverageLatency(us)=5142.07] [READ-MODIFY-WRITE AverageLatency(us)=9970.39] [UPDATE AverageLatency(us)=4826.38] 
+2018-04-20 16:26:10:287 290 sec: 2704253 operations; 9054.7 current ops/sec; est completion in 2 hours 53 minutes [READ AverageLatency(us)=5407.77] [READ-MODIFY-WRITE AverageLatency(us)=10502.5] [UPDATE AverageLatency(us)=5093.41] 
+2018-04-20 16:26:20:287 300 sec: 2797640 operations; 9338.7 current ops/sec; est completion in 2 hours 53 minutes [READ AverageLatency(us)=5251.42] [READ-MODIFY-WRITE AverageLatency(us)=10229.75] [UPDATE AverageLatency(us)=4973.89] 
+2018-04-20 16:26:20:308 300 sec: 2797867 operations; 10809.52 current ops/sec; est completion in 2 hours 53 minutes [READ AverageLatency(us)=4760.2] [READ-MODIFY-WRITE AverageLatency(us)=8728.06] [CLEANUP AverageLatency(us)=0.03] [UPDATE AverageLatency(us)=4049.89] 
+[OVERALL], RunTime(ms), 300021.0
+[OVERALL], Throughput(ops/sec), 9325.570543395295
+[TOTAL_GCS_PS_Scavenge], Count, 1003.0
+[TOTAL_GC_TIME_PS_Scavenge], Time(ms), 2228.0
+[TOTAL_GC_TIME_%_PS_Scavenge], Time(%), 0.7426146836388119
+[TOTAL_GCS_PS_MarkSweep], Count, 0.0
+[TOTAL_GC_TIME_PS_MarkSweep], Time(ms), 0.0
+[TOTAL_GC_TIME_%_PS_MarkSweep], Time(%), 0.0
+[TOTAL_GCs], Count, 1003.0
+[TOTAL_GC_TIME], Time(ms), 2228.0
+[TOTAL_GC_TIME_%], Time(%), 0.7426146836388119
+[READ], Operations, 2797867
+[READ], AverageLatency(us), 5236.0525396668245
+[READ], MinLatency(us), 700
+[READ], MaxLatency(us), 1143676
+[READ], Return=OK, 2797867
+[READ], 0, 5423.472687013242
+[READ], 10000, 5328.4044121632605
+[READ], 20000, 5136.436551630121
+[READ], 30000, 5074.935384838022
+[READ], 40000, 5351.82518114955
+[READ], 50000, 5189.963289622931
+[READ], 60000, 5163.4177961107835
+[READ], 70000, 5380.000823135598
+[READ], 80000, 5198.81073802552
+[READ], 90000, 5057.623926966928
+[READ], 100000, 5338.5932006742405
+[READ], 110000, 5202.076058910349
+[READ], 120000, 5138.296651823223
+[READ], 130000, 5411.768792383645
+[READ], 140000, 5103.070035017508
+[READ], 150000, 5066.663339166814
+[READ], 160000, 5467.789487190931
+[READ], 170000, 5191.446338269581
+[READ], 180000, 5155.628219437717
+[READ], 190000, 5406.434474863226
+[READ], 200000, 5259.1485078162
+[READ], 210000, 5216.511375332361
+[READ], 220000, 5385.753182320442
+[READ], 230000, 5118.832892388451
+[READ], 240000, 5090.217371376189
+[READ], 250000, 5276.616799118905
+[READ], 260000, 5222.732047936085
+[READ], 270000, 5166.640938818566
+[READ], 280000, 5407.545776675378
+[READ], 290000, 5230.798470780994
+[READ-MODIFY-WRITE], Operations, 1399190
+[READ-MODIFY-WRITE], AverageLatency(us), 10166.965156268985
+[READ-MODIFY-WRITE], MinLatency(us), 1582
+[READ-MODIFY-WRITE], MaxLatency(us), 1148636
+[READ-MODIFY-WRITE], 0, 10439.431166056165
+[READ-MODIFY-WRITE], 10000, 10332.308489516286
+[READ-MODIFY-WRITE], 20000, 9958.221638213776
+[READ-MODIFY-WRITE], 30000, 9815.478582101943
+[READ-MODIFY-WRITE], 40000, 10336.936657593904
+[READ-MODIFY-WRITE], 50000, 10047.022037809344
+[READ-MODIFY-WRITE], 60000, 9980.057804801341
+[READ-MODIFY-WRITE], 70000, 10417.255117280154
+[READ-MODIFY-WRITE], 80000, 10137.798706272873
+[READ-MODIFY-WRITE], 90000, 9805.66508460586
+[READ-MODIFY-WRITE], 100000, 10419.677372773815
+[READ-MODIFY-WRITE], 110000, 10083.816802651709
+[READ-MODIFY-WRITE], 120000, 10014.608652568995
+[READ-MODIFY-WRITE], 130000, 10514.902696029803
+[READ-MODIFY-WRITE], 140000, 9895.135703252203
+[READ-MODIFY-WRITE], 150000, 9828.387070071603
+[READ-MODIFY-WRITE], 160000, 10577.011226694585
+[READ-MODIFY-WRITE], 170000, 10097.500233833596
+[READ-MODIFY-WRITE], 180000, 10037.797837200984
+[READ-MODIFY-WRITE], 190000, 10451.579439665657
+[READ-MODIFY-WRITE], 200000, 10210.632952169646
+[READ-MODIFY-WRITE], 210000, 10242.92429069295
+[READ-MODIFY-WRITE], 220000, 10482.402913901464
+[READ-MODIFY-WRITE], 230000, 9985.117873279394
+[READ-MODIFY-WRITE], 240000, 9962.824396754886
+[READ-MODIFY-WRITE], 250000, 10251.248692909303
+[READ-MODIFY-WRITE], 260000, 10131.13791637438
+[READ-MODIFY-WRITE], 270000, 10020.821983778304
+[READ-MODIFY-WRITE], 280000, 10530.73652681325
+[READ-MODIFY-WRITE], 290000, 10147.419097464526
+[CLEANUP], Operations, 72
+[CLEANUP], AverageLatency(us), 0.027777777777777776
+[CLEANUP], MinLatency(us), 0
+[CLEANUP], MaxLatency(us), 2
+[CLEANUP], 0, 0.027777777777777776
+[UPDATE], Operations, 1399189
+[UPDATE], AverageLatency(us), 4924.501837135655
+[UPDATE], MinLatency(us), 679
+[UPDATE], MaxLatency(us), 108074
+[UPDATE], Return=OK, 1399190
+[UPDATE], 0, 4993.704386882959
+[UPDATE], 10000, 4974.974276176554
+[UPDATE], 20000, 4839.317025481457
+[UPDATE], 30000, 4737.953781338204
+[UPDATE], 40000, 4985.797735438215
+[UPDATE], 50000, 4859.7898892817075
+[UPDATE], 60000, 4817.018261872314
+[UPDATE], 70000, 5037.785162083809
+[UPDATE], 80000, 4918.633138990553
+[UPDATE], 90000, 4746.244944283945
+[UPDATE], 100000, 5063.3221240099765
+[UPDATE], 110000, 4896.375807411185
+[UPDATE], 120000, 4864.19951086842
+[UPDATE], 130000, 5063.130348521923
+[UPDATE], 140000, 4804.562100780696
+[UPDATE], 150000, 4765.660775630147
+[UPDATE], 160000, 5119.559574989419
+[UPDATE], 170000, 4906.683006674886
+[UPDATE], 180000, 4871.4748690328415
+[UPDATE], 190000, 5053.894918402548
+[UPDATE], 200000, 4930.753210735163
+[UPDATE], 210000, 4988.667700070557
+[UPDATE], 220000, 5108.269349096822
+[UPDATE], 230000, 4867.9372491331305
+[UPDATE], 240000, 4831.023316440384
+[UPDATE], 250000, 4975.1430454133
+[UPDATE], 260000, 4894.903790149438
+[UPDATE], 270000, 4852.1208812098685
+[UPDATE], 280000, 5103.562934037408
+[UPDATE], 290000, 4931.984228890439

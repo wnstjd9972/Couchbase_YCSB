@@ -1,0 +1,83 @@
+2018-04-20 14:47:25:300 0 sec: 0 operations; est completion in 0 seconds 
+2018-04-20 14:47:35:282 10 sec: 143713 operations; 14371.3 current ops/sec; est completion in 1 hours 55 minutes [READ AverageLatency(us)=4614.47] 
+2018-04-20 14:47:45:282 20 sec: 311136 operations; 16742.3 current ops/sec; est completion in 1 hours 46 minutes [READ AverageLatency(us)=4298.43] 
+2018-04-20 14:47:55:282 30 sec: 478392 operations; 16725.6 current ops/sec; est completion in 1 hours 44 minutes [READ AverageLatency(us)=4304.3] 
+2018-04-20 14:48:05:282 40 sec: 645880 operations; 16748.8 current ops/sec; est completion in 1 hours 42 minutes [READ AverageLatency(us)=4297.3] 
+2018-04-20 14:48:15:282 50 sec: 811156 operations; 16527.6 current ops/sec; est completion in 1 hours 41 minutes [READ AverageLatency(us)=4354.39] 
+2018-04-20 14:48:25:282 60 sec: 979200 operations; 16804.4 current ops/sec; est completion in 1 hours 41 minutes [READ AverageLatency(us)=4283.18] 
+2018-04-20 14:48:35:282 70 sec: 1145394 operations; 16619.4 current ops/sec; est completion in 1 hours 40 minutes [READ AverageLatency(us)=4330.89] 
+2018-04-20 14:48:45:282 80 sec: 1313285 operations; 16789.1 current ops/sec; est completion in 1 hours 40 minutes [READ AverageLatency(us)=4286.33] 
+2018-04-20 14:48:55:282 90 sec: 1481675 operations; 16839 current ops/sec; est completion in 1 hours 39 minutes [READ AverageLatency(us)=4274.78] 
+2018-04-20 14:49:05:282 100 sec: 1649869 operations; 16819.4 current ops/sec; est completion in 1 hours 39 minutes [READ AverageLatency(us)=4279.36] 
+2018-04-20 14:49:15:282 110 sec: 1818488 operations; 16861.9 current ops/sec; est completion in 1 hours 38 minutes [READ AverageLatency(us)=4258.1] 
+2018-04-20 14:49:25:282 120 sec: 1985106 operations; 16661.8 current ops/sec; est completion in 1 hours 38 minutes [READ AverageLatency(us)=4329.56] 
+2018-04-20 14:49:35:282 130 sec: 2152175 operations; 16706.9 current ops/sec; est completion in 1 hours 38 minutes [READ AverageLatency(us)=4308.19] 
+2018-04-20 14:49:45:282 140 sec: 2319733 operations; 16755.8 current ops/sec; est completion in 1 hours 38 minutes [READ AverageLatency(us)=4295.48] 
+2018-04-20 14:49:55:282 150 sec: 2487029 operations; 16729.6 current ops/sec; est completion in 1 hours 38 minutes [READ AverageLatency(us)=4302.62] 
+2018-04-20 14:50:05:282 160 sec: 2652541 operations; 16551.2 current ops/sec; est completion in 1 hours 37 minutes [READ AverageLatency(us)=4347.73] 
+2018-04-20 14:50:15:282 170 sec: 2819616 operations; 16707.5 current ops/sec; est completion in 1 hours 37 minutes [READ AverageLatency(us)=4308.58] 
+2018-04-20 14:50:25:282 180 sec: 2986052 operations; 16643.6 current ops/sec; est completion in 1 hours 37 minutes [READ AverageLatency(us)=4324.52] 
+2018-04-20 14:50:35:282 190 sec: 3151172 operations; 16512 current ops/sec; est completion in 1 hours 37 minutes [READ AverageLatency(us)=4358.64] 
+2018-04-20 14:50:45:282 200 sec: 3318098 operations; 16692.6 current ops/sec; est completion in 1 hours 37 minutes [READ AverageLatency(us)=4311.98] 
+2018-04-20 14:50:55:282 210 sec: 3485979 operations; 16788.1 current ops/sec; est completion in 1 hours 36 minutes [READ AverageLatency(us)=4286.6] 
+2018-04-20 14:51:05:282 220 sec: 3654355 operations; 16837.6 current ops/sec; est completion in 1 hours 36 minutes [READ AverageLatency(us)=4274.42] 
+2018-04-20 14:51:15:282 230 sec: 3823234 operations; 16887.9 current ops/sec; est completion in 1 hours 36 minutes [READ AverageLatency(us)=4262.42] 
+2018-04-20 14:51:25:282 240 sec: 3991675 operations; 16844.1 current ops/sec; est completion in 1 hours 36 minutes [READ AverageLatency(us)=4273.16] 
+2018-04-20 14:51:35:282 250 sec: 4160156 operations; 16848.1 current ops/sec; est completion in 1 hours 36 minutes [READ AverageLatency(us)=4271.87] 
+2018-04-20 14:51:45:282 260 sec: 4328740 operations; 16858.4 current ops/sec; est completion in 1 hours 35 minutes [READ AverageLatency(us)=4269.25] 
+2018-04-20 14:51:55:282 270 sec: 4498158 operations; 16941.8 current ops/sec; est completion in 1 hours 35 minutes [READ AverageLatency(us)=4248.42] 
+2018-04-20 14:52:05:282 280 sec: 4664352 operations; 16619.4 current ops/sec; est completion in 1 hours 35 minutes [READ AverageLatency(us)=4330.6] 
+2018-04-20 14:52:15:282 290 sec: 4832679 operations; 16832.7 current ops/sec; est completion in 1 hours 35 minutes [READ AverageLatency(us)=4275.27] 
+2018-04-20 14:52:25:282 300 sec: 4998308 operations; 16562.9 current ops/sec; est completion in 1 hours 35 minutes [READ AverageLatency(us)=4346.57] 
+2018-04-20 14:52:25:299 300 sec: 4998598 operations; 17058.82 current ops/sec; est completion in 1 hours 35 minutes [READ AverageLatency(us)=4033.36] [CLEANUP AverageLatency(us)=0.08] 
+[OVERALL], RunTime(ms), 300017.0
+[OVERALL], Throughput(ops/sec), 16661.049207211592
+[TOTAL_GCS_PS_Scavenge], Count, 1054.0
+[TOTAL_GC_TIME_PS_Scavenge], Time(ms), 2382.0
+[TOTAL_GC_TIME_%_PS_Scavenge], Time(%), 0.7939550092161444
+[TOTAL_GCS_PS_MarkSweep], Count, 0.0
+[TOTAL_GC_TIME_PS_MarkSweep], Time(ms), 0.0
+[TOTAL_GC_TIME_%_PS_MarkSweep], Time(%), 0.0
+[TOTAL_GCs], Count, 1054.0
+[TOTAL_GC_TIME], Time(ms), 2382.0
+[TOTAL_GC_TIME_%], Time(%), 0.7939550092161444
+[READ], Operations, 4998598
+[READ], AverageLatency(us), 4308.594917614899
+[READ], MinLatency(us), 701
+[READ], MaxLatency(us), 392643
+[READ], Return=OK, 4998598
+[READ], 0, 4611.079845804589
+[READ], 10000, 4323.106029393217
+[READ], 20000, 4246.299722632045
+[READ], 30000, 4322.732186171618
+[READ], 40000, 4329.44182563029
+[READ], 50000, 4331.925035062692
+[READ], 60000, 4280.765649440635
+[READ], 70000, 4310.700638964243
+[READ], 80000, 4277.541750389385
+[READ], 90000, 4287.502100176951
+[READ], 100000, 4247.408000849522
+[READ], 110000, 4331.095870215365
+[READ], 120000, 4285.636658092789
+[READ], 130000, 4313.23702287331
+[READ], 140000, 4307.1188201154755
+[READ], 150000, 4345.556279395517
+[READ], 160000, 4294.252790588067
+[READ], 170000, 4347.902557348526
+[READ], 180000, 4341.055624920833
+[READ], 190000, 4323.444308960182
+[READ], 200000, 4259.757081590826
+[READ], 210000, 4316.3234842854745
+[READ], 220000, 4244.74505618905
+[READ], 230000, 4274.793034831781
+[READ], 240000, 4254.953781760999
+[READ], 250000, 4283.591561116137
+[READ], 260000, 4260.250872977356
+[READ], 270000, 4328.3225305763945
+[READ], 280000, 4300.91526658743
+[READ], 290000, 4296.984043150174
+[CLEANUP], Operations, 72
+[CLEANUP], AverageLatency(us), 0.08333333333333333
+[CLEANUP], MinLatency(us), 0
+[CLEANUP], MaxLatency(us), 2
+[CLEANUP], 0, 0.08333333333333333
